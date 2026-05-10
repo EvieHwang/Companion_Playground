@@ -5,11 +5,11 @@
 
 ### The problem in one sentence
 
-Washington cannot measure how LGBTQ+ Washingtonians fare in foster care, adult homelessness, Medicaid enrollment, unemployment, or the basic-needs safety net — because the agencies running those systems do not collect sexual orientation and gender identity (SOGI) information at the front door.
+Washington cannot verify whether it is serving LGBTQ+ residents on the same terms as everyone else in foster care, adult homelessness, Medicaid, unemployment, or the basic-needs safety net — because the agencies running those systems do not collect sexual orientation and gender identity (SOGI) information at the front door.
 
 ### Why this matters
 
-Every credible national study finds LGBTQ+ people over-represented in foster care, homelessness, behavioral health crises, and economic insecurity. National numbers are estimates. A state cannot allocate resources, evaluate programs, or hold agencies accountable to its own population without its own data.
+State agencies are responsible for delivering their services to all Washingtonians on the same terms. Without SOGI data, they cannot demonstrate whether they are doing so. National research consistently finds LGBTQ+ people over-represented in foster care, homelessness, behavioral health crises, and economic insecurity. Whether the same is true in Washington, and where, is not currently knowable from inside the state's own systems.
 
 This is not a values question. It is a governance question. **You cannot evaluate program effectiveness for a population you cannot count.** Privacy is a design problem, not a reason not to build — Oregon has demonstrated that confidentiality and statewide collection are compatible.
 
@@ -31,9 +31,9 @@ Each of these is a genuine accomplishment. The problem is that they were built o
 
 ### Where Washington is blind
 
-These are the five state systems where LGBTQ+ Washingtonians are most likely to be over-represented, and where the state currently has no way to see them:
+These are the five state systems where the state currently cannot see how its LGBTQ+ residents are being served:
 
-| System | What it does | What we can't measure |
+| System | What it does | What the state can't see |
 |---|---|---|
 | **DCYF FamLink** | Child welfare and foster care | Whether LGBTQ+ youth are over-represented in foster care, and how their placements compare |
 | **Balance-of-State HMIS** | Adult homelessness services | How LGBTQ+ adults experience homelessness and shelter access |
@@ -42,6 +42,12 @@ These are the five state systems where LGBTQ+ Washingtonians are most likely to 
 | **DSHS ESA intake** | TANF, Basic Food, ABD | LGBTQ+ household economic vulnerability in the safety net |
 
 The most urgent of these is child welfare. National research suggests LGBTQ+ youth are in foster care at roughly two to three times their share of the youth population, with even higher rates for trans youth. Washington has no way to confirm or refute that in its own system.
+
+---
+
+### What happens when the data shows a gap
+
+The point of the data is not to add new programs. It is to give the state a way to see where its existing services are not landing equally — and to fix them. If foster care is producing unequal outcomes for LGBTQ+ youth, that is a foster care problem to solve. The data is the diagnostic, not the prescription.
 
 ---
 

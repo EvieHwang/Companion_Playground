@@ -24,6 +24,35 @@ The goal for Pullman is to build internal coalition among commissioners. The wor
 - [ ] Get informal agreement to place SOGI data infrastructure on the next meeting agenda as a substantive item
 - [ ] Identify one commissioner willing to co-own an outreach effort to a specific agency (DCYF is the most compelling starting point)
 
+### Question for Senator Claire Wilson
+
+Senator Wilson — original Commission sponsor — will sit with the Commission in Pullman. Ask one question. The question should signal interest, invite her to offer support of her own choosing, and plant the seed with fellow commissioners by activating values they already hold (care for kids, fairness, accountability of state systems).
+
+**Question to ask:**
+
+> Senator Wilson, you sponsored this Commission, and your work has long centered on how Washington's systems serve its children. National research suggests LGBTQ+ youth are over-represented in foster care by two to three times their share of the youth population — but Washington has no way to verify that in our own data, because DCYF's FamLink system doesn't collect sexual orientation and gender identity information. If the Commission took on closing that gap as a priority, what would you want us to know — about timing, about allies, about how to frame the ask so it lands?
+
+**Why this question:**
+
+- **Opens with her, not the topic.** Acknowledges her sponsorship and her track record on children's systems before getting to the substance.
+- **Frames the gap concretely.** The 2–3x foster care number is doing the work of conveying urgency without polemic. The DCYF/FamLink specificity makes it actionable rather than abstract.
+- **Activates commissioners' shared values.** Anyone who cares about kids, fairness, or whether state systems do what they say they do has a place to land. Doesn't require commissioners to share any particular view of identity politics.
+- **Invites support of her choosing.** "What would you want us to know" lets her offer political insight, introductions, advice, public backing, or warnings — whatever she has bandwidth for. Doesn't pin her down to a yes/no.
+- **Three sub-prompts (timing, allies, framing) give her structure** if she wants it, without forcing her to use them.
+
+**What to listen for in her answer:**
+
+- Whether she names specific legislators, agency staff, or advocates as allies
+- Whether she signals openness to carrying or co-sponsoring legislation later
+- Whether she pushes back on FamLink as the right starting point and proposes a different beachhead
+- Tone toward DCYF — warm, frustrated, neutral — that's intel about how to approach the agency
+
+**After the question:**
+
+- [ ] Capture her answer verbatim if possible; note specific names she drops
+- [ ] Follow up within a week with a thank-you and the briefing document
+- [ ] Add her staff contact to the relationships table
+
 ### Conversation starters to have
 
 - "What data does DCYF actually have on LGBTQ+ youth in foster care right now?" — most commissioners won't know the answer; the answer (nothing) is the argument
