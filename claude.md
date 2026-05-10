@@ -10,7 +10,7 @@ Eve Hwang (Evie) is a Product manager, AI builder and also a Washington State Co
 
 1. Read this file
 2. Read `plans/job-search.md`
-3. Read `plans/commission.md`
+3. Read `commission/plan.md`
 4. Read `plans/flying-stick.md`
 5. Greet Evie briefly. Briefly note the current priorities, the tasks at hand. 
 
@@ -20,7 +20,7 @@ Eve Hwang (Evie) is a Product manager, AI builder and also a Washington State Co
 **Job Search** → `plans/job-search.md`
 Finding the right next role. 
 
-**WA LGBTQ Commission** → `plans/commission.md`
+**WA LGBTQ Commission** → `commission/plan.md`
 Structural policy work on a long arc. 
 
 **Flying Stick** → `plans/flying-stick.md`
