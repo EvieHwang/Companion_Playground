@@ -31,4 +31,26 @@ I would like the Commission to champion this issue and work within the governmen
 
 **2. Request Office of Equity to publish a data standard.** The Office of Equity already has the legal authority to publish a binding statewide data standard. This achieves question-set unification without new legislation.
 
-**3. Washington equivalent of Oregon's HB 3159.** Draft and seek sponsorships for a statute creating a centralized registry, a unified standard, binding requirements across state-funded programs, and dedicated funding. 
+**3. Washington equivalent of Oregon's HB 3159.** Draft and seek sponsorships for a statute creating a centralized registry, a unified standard, binding requirements across state-funded programs, and dedicated funding.
+
+---
+
+### Appendix: What the questions actually look like
+
+A reasonable concern is that SOGI data collection could become an unwieldy list of identity categories. Serious standard-setters have already worked this out. Every credible standard uses a small closed list of categories — common enough to support statistical analysis — paired with an "I use a different term [specify]" write-in field that captures any identity not on the list. The list is finite and revisable, not exhaustive.
+
+**Federal Interagency Working Group recommendation (OMB, January 2023):**
+
+- Sexual orientation: Gay or lesbian; Straight, that is not gay or lesbian; Bisexual; "I use a different term [specify]." Plus Don't know and Prefer not to answer.
+- Gender identity uses a two-step method:
+  - Sex assigned at birth: Female; Male.
+  - Current gender: Female; Male; Transgender; "I use a different term [specify]." Plus Don't know and Prefer not to answer.
+
+**Oregon REALD+SOGI standard (permanent rules adopted July 2024):**
+
+- Sexual orientation: Asexual; Bisexual/pansexual; Gay; Lesbian; Queer; Straight/heterosexual; Same-gender loving; "Something else fits better [specify]"; Don't know; Don't want to answer.
+- Gender identity (check all that apply): Agender; Androgynous; Genderqueer/gender non-conforming/gender fluid; Man/boy; Non-binary; Questioning; Trans/transgender; Two-Spirit; Woman/girl; "Something else fits better [specify]"; Don't know; Don't want to answer.
+- Sex assigned at birth (separate question): Female; Male; X; Don't know; Don't want to answer.
+
+Oregon's list sits at the longer end of national practice. Identities outside that list are recorded through the write-in field rather than enumerated as checkboxes.
+
