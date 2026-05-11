@@ -1,4 +1,3 @@
-```markdown
 # Tiered Agentic Build Framework — Next Steps
 
 ## Immediate
@@ -34,4 +33,34 @@ a weekly analysis, replacing a manual employee workflow.
 Target: MCP Gateway rebuild on Eviebot.
 Hold until Tier 2 road test is complete and 
 framework is stable.
-```
+
+
+# Companion Playground — Personal Agent / Thinking Partner
+Design largely settled in conversation. Not yet built.
+Architecture: Claude Code + GitHub repo. Eviebot is the 
+natural host.
+
+## Design decisions made
+- Repo as persistent memory layer; CLAUDE.md auto-loads 
+  context at session start
+- Three focus areas: job search, WA Commission, Flying Stick
+- Session reset is user-initiated ("when I've lost the thread"), 
+  not on a schedule
+- Wrap-up command: agent surfaces potential file updates, 
+  Evie decides what gets committed
+- Dispatch explored as phone interface — promising given 
+  always-on Eviebot, but single-thread constraint conflicts 
+  with session reset model; revisit when more stable
+
+## Repo structure (designed, not created)
+- CLAUDE.md — orientation + behavior
+- plans/job-search.md
+- plans/commission.md
+- plans/flying-stick.md
+- inbox.md
+
+## Next steps
+- [ ] Create repo
+- [ ] Draft CLAUDE.md (skeleton drafted in conversation)
+- [ ] Populate three plan files manually
+- [ ] Run first session and note what's missing
