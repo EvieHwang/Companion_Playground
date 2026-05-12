@@ -1,5 +1,8 @@
 The Plan
-1. The framework, made durable
+
+This document is a plan for Evie to get a new role. It explains the steps and objectives to accomplish in order to reach the goal. 
+
+1. The framework, made durable **COMPLETE - see the file new-role/career-framework.md**
 Why: Everything downstream depends on knowing what you’re solving for. The framework we built lives in this conversation; it needs to live somewhere portable so future AI conversations and your own re-reads can use it.
 Contents: Role shape, domain thesis, floor criteria, target archetypes, two-cluster positioning logic, daily-texture model, your pattern of burn and the protection it requires.
 Outcome: A single durable artifact (doc, Notion page, repo file) that captures the framework in your voice. Re-readable. Pasteable into any future AI conversation in 30 seconds.
