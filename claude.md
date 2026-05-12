@@ -17,7 +17,7 @@ Complete every step in order.
 
 ## Briefing format
 
-- Calendar briefing, relevant to the plans
+- Calendar briefing: items for today and tomorrow, and upcoming items that have specific relevance to the plans in this repo. 
 - One objective for today - the most impactful next step that can be taken today.  
 - Brief observation from the other two projects
 - One open question if something important isn't showing up
