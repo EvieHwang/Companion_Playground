@@ -28,12 +28,18 @@ _Requests for more depth — marked OPEN until addressed_
 ## General Notes
 _Tone, framing, and structural preferences_
 
-<!-- e.g. **2026-05-13** | Open question section is most useful when it's a decision I need to make, not research. -->
+**2026-05-13** | Second medical appointment May 18 is mammogram + bloodwork — no deodorant, lotion, or powder (confirmed from calendar).
+**2026-05-13** | Pullman prep is complete. Additional prep happening on the plane Friday morning.
+**2026-05-13** | Sam (Commission staff) asked about creating a Commissioner workgroup for between-meeting work.
+**2026-05-13** | New role focus works best when ShinShin is at work — that's the structural trigger for new-role sessions.
+**2026-05-13** | Going into Pullman with open mind; not pre-scripting which tasks will be needed — objectives guide, not scripts.
+**2026-05-13** | Contract wrapping up May 13. Thursday May 14 afternoon confirmed as next work window.
+**2026-05-13** | Markus confirmed as first t2 test case under TABF (TABF runs via Claude Code from a terminal pointed at a git repo — Xcode project is a valid git repo).
+**2026-05-13** | GSBA EDC is primarily social/networking; winding down board commitment. Robbie (former vice chair, close friend) presenting — priority is the connection with him, not job-search activation.
 
 ---
 
 ## Processing Log
 _Internal record — tracks which briefing threads have been checked for replies_
 
-<!-- e.g. **2026-05-13** | Processed reply to "[Daily Focus] Wednesday, May 13 2026". 2 items added. -->
-<!-- e.g. **2026-05-12** | No replies found for "[Daily Focus] Tuesday, May 12 2026". Skipped. -->
+**2026-05-13** | Processed replies to "[Daily Focus] Wednesday, May 13". 8 items added to General Notes (from threads AuyghQVL2TBc and A236ItO_k6_s).
