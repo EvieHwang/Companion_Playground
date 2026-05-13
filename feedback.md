@@ -21,19 +21,24 @@ _Items lower priority than the plans currently suggest_
 ## Context Requests
 _Requests for more depth — marked OPEN until addressed_
 
-<!-- e.g. **2026-05-12** | OPEN: What is the "RCW 43.06D authority" mechanically? One plain-language sentence when it comes up. -->
+**2026-05-13** | OPEN: Is TABF compatible with the Xcode Claude agent? Does it run from a repo? (Context: Markus is iOS and the most appealing TABF opportunity right now.)
 
 ---
 
 ## General Notes
 _Tone, framing, and structural preferences_
 
-<!-- e.g. **2026-05-13** | Open question section is most useful when it's a decision I need to make, not research. -->
+**2026-05-13** | May 18 second appointment (12:50pm, 904 7th Ave 2nd Floor) is a mammogram and bloodwork — do not wear deodorant, lotion, or powder.
+
+**2026-05-13** | New role activation window = when ShinShin is at work. Schedule new role work for those windows, not when she's home with guests.
+
+**2026-05-13** | Open question framing for Pullman: Eve is going in with an open mind and focus on objectives — don't pre-assume which specific tactics or follow-up tasks will be needed.
+
+**2026-05-13** | Commission: Eve asked Sam (LGBTQ Commission) about creating a commissioner workgroup for between-meeting work on SOGI data. Update when answer is known.
 
 ---
 
 ## Processing Log
 _Internal record — tracks which briefing threads have been checked for replies_
 
-<!-- e.g. **2026-05-13** | Processed reply to "[Daily Focus] Wednesday, May 13 2026". 2 items added. -->
-<!-- e.g. **2026-05-12** | No replies found for "[Daily Focus] Tuesday, May 12 2026". Skipped. -->
+**2026-05-13** | Processed reply to "[Daily Focus] Wednesday, May 13". 5 items added (1 Context Request, 4 General Notes).
