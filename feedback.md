@@ -21,7 +21,7 @@ _Items lower priority than the plans currently suggest_
 ## Context Requests
 _Requests for more depth — marked OPEN until addressed_
 
-**2026-05-13** | OPEN: Is TABF compatible with the Xcode Claude agent? Does it run from a repo? (Context: Markus is iOS and the most appealing TABF opportunity right now.)
+**2026-05-13** | CLOSED: Is TABF compatible with the Xcode Claude agent? Does it run from a repo? — Answered in May 13 briefing; acknowledged in reply.
 
 ---
 
@@ -36,9 +36,13 @@ _Tone, framing, and structural preferences_
 
 **2026-05-13** | Commission: Eve asked Sam (LGBTQ Commission) about creating a commissioner workgroup for between-meeting work on SOGI data. Update when answer is known.
 
+**2026-05-15** | MCP Gateway rebuild (Apple Music + GitHub individual MCPs) is flagged as important to get to — keep visible in the queue, don't let it slip behind TABF.
+
 ---
 
 ## Processing Log
 _Internal record — tracks which briefing threads have been checked for replies_
 
 **2026-05-13** | Processed reply to "[Daily Focus] Wednesday, May 13". 5 items added (1 Context Request, 4 General Notes).
+
+**2026-05-15** | Processed reply to "[Daily Focus] Thursday, May 14". 1 item added (1 General Note). Context Request TABF+Xcode marked CLOSED.
