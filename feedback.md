@@ -44,6 +44,16 @@ _Tone, framing, and structural preferences_
 
 **2026-05-17** | Flying Stick/TABF: Eve has started working through the TABF materials — reading, editing, cleaning up. Still in progress as of May 16.
 
+**2026-05-18** | Commission — Pullman outcomes: Senator Wilson on record — "never a reason to stop building infrastructure" — which publicly rebutted Lozano without requiring a direct counter. Working under the Legislative Committee (Romero as chair) is a pragmatic accommodation, not a concession; independent workgroup remains a commissioner prerogative.
+
+**2026-05-18** | Commission — Commissioner map: Archer = most aligned, co-lead candidate, priority outreach this week. Romero = unknown/possibly movable; outreach before Lozano meeting is diagnostic re Lozano allegiance. Lozano = risk-averse, potentially adversarial; mode is to criticize not act; three voices (Archer + Romero + project lead) are sufficient, Lozano is nice-to-have. J.K. = Vice Chair, unknown, worth direct outreach independently.
+
+**2026-05-18** | Commission — Two-step security framework (supersedes bare "fit-for-purpose" framing): Step 1 = statutory protections + federal info-sharing analysis + PRR exemptions; Step 2 = disaggregation/anonymization of retained data + data minimization + GDPR as reference standard. Agencies retain data 7 years but haven't used disaggregation — actionable gap requiring no new legislation.
+
+**2026-05-18** | Commission — New contacts from Pullman: Caitlin Stafford and Kristin (state data handling, open to working relationship). Gretchen Perry (WA State CTO) = key technical partner for implementation credibility; Stafford/Kristin may be the bridge. Governor's office = wait until Commission has a formal recommendation.
+
+**2026-05-18** | Commission — Two-week action plan: Week 1 = outreach to Archer, Romero, J.K., and Sam follow-up (specific ask: Oregon HB 3159 timeline or DCYF contact ID). Week 2 = path to Gretchen Perry + policy brief outline with core group (Amazon working-backwards; commissioner-authored, not a staff document). Senator Wilson = ask about introductions to Macri (caucus co-lead) and Elias (highly influential, not yet contacted).
+
 ---
 
 ## Processing Log
@@ -54,3 +64,5 @@ _Internal record — tracks which briefing threads have been checked for replies
 **2026-05-17** | Processed reply to "[Daily Focus] Thursday, May 14". 1 item added (1 General Note).
 
 **2026-05-17** | Processed reply to "[Daily Focus] Friday, May 15". 3 items added (3 General Notes).
+
+**2026-05-18** | Processed reply to "[Daily Focus] Monday, May 18". 5 items added (5 General Notes — full Commission Pullman debrief).
