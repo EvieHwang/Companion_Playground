@@ -44,6 +44,8 @@ _Tone, framing, and structural preferences_
 
 **2026-05-17** | Flying Stick/TABF: Eve has started working through the TABF materials — reading, editing, cleaning up. Still in progress as of May 16.
 
+**2026-05-19** | Commission — Eve emailed Commissioner Archer to request a meeting or call about SOGI data interest. Outreach sent; awaiting reply.
+
 ---
 
 ## Processing Log
@@ -54,3 +56,5 @@ _Internal record — tracks which briefing threads have been checked for replies
 **2026-05-17** | Processed reply to "[Daily Focus] Thursday, May 14". 1 item added (1 General Note).
 
 **2026-05-17** | Processed reply to "[Daily Focus] Friday, May 15". 3 items added (3 General Notes).
+
+**2026-05-19** | Processed reply to "[Daily Focus] Monday, May 18". 1 item added (1 General Note).
