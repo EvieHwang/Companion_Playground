@@ -44,6 +44,18 @@ _Tone, framing, and structural preferences_
 
 **2026-05-17** | Flying Stick/TABF: Eve has started working through the TABF materials — reading, editing, cleaning up. Still in progress as of May 16.
 
+**2026-05-20** | Commission: Commissioner Archer outreach email sent May 18 — asking to meet or call re: SOGI data workgroup co-lead. Romero and J.K. outreach still pending (Week 1 action plan).
+
+**2026-05-20** | Commission: Commissioner profiles from Pullman — Archer (aligned co-lead candidate; outreach sent); Romero (Legislative Committee Chair; unknown/possibly movable; reach out before Lozano meeting; response is diagnostic re Lozano allegiance); Lozano (Co-Chair; risk-averse, adversarial mode; do not defer leadership to them); J.K. (Vice Chair; unknown; low-risk direct outreach worth doing).
+
+**2026-05-20** | Commission: Two-step security approach is the confirmed design principle from Pullman. Step 1: statutory protections + PRR exemptions. Step 2: GDPR-aligned data minimization and disaggregation. Reframes Lozano's objection from "don't build" to "build carefully."
+
+**2026-05-20** | Commission: New contacts from Pullman — Caitlin Stafford and Kristin (state data handling, open to working relationships); Gretchen Perry (WA State CTO, critical technical partner for implementation credibility — Stafford/Kristin may be the bridge).
+
+**2026-05-20** | Commission: Senator Wilson publicly stated at Pullman — "never a good reason to stop building infrastructure." On the record before the full Commission. This is the authoritative rebuttal to risk-aversion; harder for any commissioner to argue for a halt after Wilson said the opposite.
+
+**2026-05-20** | Commission: Policy brief outline complete (7-section, commissioner-authored). Audiences in order: core commissioner group → agency contacts → Legislative Caucus (Wilson, Macri, Elias) → Governor's office (once Commission recommendation exists).
+
 ---
 
 ## Processing Log
@@ -54,3 +66,5 @@ _Internal record — tracks which briefing threads have been checked for replies
 **2026-05-17** | Processed reply to "[Daily Focus] Thursday, May 14". 1 item added (1 General Note).
 
 **2026-05-17** | Processed reply to "[Daily Focus] Friday, May 15". 3 items added (3 General Notes).
+
+**2026-05-20** | Processed reply to "[Daily Focus] Monday, May 18". 6 items added (6 General Notes).
