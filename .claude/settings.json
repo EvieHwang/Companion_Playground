@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Fastmail-MCP__list_calendars",
+      "mcp__Fastmail-MCP__list_events",
+      "mcp__Fastmail-MCP__get_event",
+      "mcp__Fastmail-MCP__create_event",
+      "mcp__Fastmail-MCP__update_event",
+      "mcp__Fastmail-MCP__delete_event",
+      "mcp__Fastmail-MCP__search_email",
+      "mcp__Fastmail-MCP__get_email",
+      "mcp__Fastmail-MCP__get_thread",
+      "mcp__Fastmail-MCP__send_email",
+      "mcp__Fastmail-MCP__list_mailboxes",
+      "mcp__Fastmail-MCP__move_email",
+      "mcp__Fastmail-MCP__update_email",
+      "mcp__Fastmail-MCP__delete_email"
+    ]
+  }
+}
